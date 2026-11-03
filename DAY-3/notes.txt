@@ -36,7 +36,7 @@ webhook congiguration
 Go to ->github ->select your repository  nd branch -> on right side click on settings->select webhooks -> payload block  fill the jenkins <url>
 
 
-http://13.201.104.117:8080/github-webhook/
+http://65.1.134.171:8080/github-webhook/
 
 nd select contextpath : json --> click addit
 
