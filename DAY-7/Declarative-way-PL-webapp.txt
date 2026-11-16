@@ -12,7 +12,7 @@ pipeline
     {
       steps
       {
-      git branch: 'master', url: 'https://github.com/kkdevopsb10/maven-webapplication-project-kkfunda.git'
+      git branch: 'master', url: 'https://github.com/SwethaDevagani/maven-webapplication-project-kkfunda.git'
       }
     }
     stage('COMPILE')
